@@ -4,4 +4,6 @@ git status                                           | 查看是否有未提交的修改
 git add "文件名"                                 | 把修改的文件添加到缓存区
 git log                                                | 查看修改历史
 git commit -m "文件名"                      | 提交缓存区文件到版本库
+git commit -m "一次性提交所有文件"  | 提交所有缓存区文件
 git reflog                                            | 查看所有修改或回退的版本号
+
